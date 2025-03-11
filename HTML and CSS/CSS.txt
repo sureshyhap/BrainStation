@@ -1,0 +1,5 @@
+p {
+  text-align: justify;
+}
+
+This makes the lines of the paragraph have the same width.
