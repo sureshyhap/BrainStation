@@ -1,0 +1,8 @@
+// Creating a new array
+var a = new Array():
+
+// More commonly used
+var b = [];
+
+// If you try to access an index that is not part of the array, you get undefined. For instance:
+arr[-1]; // undefined
